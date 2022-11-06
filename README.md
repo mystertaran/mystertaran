@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon!</h1>
-<h3 align="center">A passionate fullstack developer from Poland!</h3>
+<h3 align="center">A passionate frontend developer from Poland!</h3>
 
 - 📫 How to reach me **sz.taranczewski@gmail.com**
 
