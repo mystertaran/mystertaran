@@ -1,6 +1,27 @@
-<h1 align="center">Hi 👋, I'm Szymon!</h1>
-<h3 align="justify">A passionate frontend developer from Poland! With a robust portfolio in WordPress projects and active contributions to an exciting open-source venture predominantly built with React and TypeScript. Fearless in the face of challenges, I thrive on coding, love engaging in discussions, and find joy in sharing knowledge. Always eager to help and contribute positively to the coding community. Let's build something amazing together! 💻✨ #CodePassion</h3>
-
+<h1 align="center">Hi there!👋, I'm Szymon!</h1>
+<h2 align="justify">Frontend enthusiast with a dash of backend flavor. I specialize in crafting seamless user experiences using technologies like ReactJS, TypeScript, JavaScript, and diving into CMS platforms like Wordpress and PrestaShop.</h2>  
+<br/>
+<h2>Skills 🚀</h2>  
+<h4>- Team collaboration and effective time management. <br/>
+- Meticulous attention to detail, achieving "pixel-perfect" results. <br/>
+- Over 8 years of diverse experience beyond programming, bringing unique perspectives. <br/>
+- 3 years of hands-on experience as a programmer and freelancer.</h4> <br/>
+<br/>
+<h2>Experience 💼</h2>
+<h4>I've contributed to various projects, and you can check out some of my work on my portfolio website <a href="https://sdconcept.pl">SDConcept</a> and GitHub profile.</h4> <br/>
+<br/>
+<h2>Interests 🌐</h2>  
+<h4>When I'm not coding, you'll find me: <br/>
+- Strumming tunes on my guitar 🎸 <br/>
+- Exploring new destinations ✈️ <br/>
+- Binge-watching TV series 🍿 <br/>
+- Tending to my garden 🌷 <br/>
+- Taking leisurely strolls with my dog 🐾</h4> <br/>
+<br/>
+<h2>Ambitions 🌟</h2>  
+<h4>I'm eager to join an ambitious project, working collaboratively to build something meaningful from the ground up.</h4> <br/>
+<br/>
+<h2>Let's connect and create something awesome together! 🚀 🚀<h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-taranczewski) 
