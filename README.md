@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon!</h1>
-<h3 align="center">A passionate frontend developer from Poland!</h3>
+<h3 align="justify">A passionate frontend developer from Poland! With a robust portfolio in WordPress projects and active contributions to an exciting open-source venture predominantly built with React and TypeScript. Fearless in the face of challenges, I thrive on coding, love engaging in discussions, and find joy in sharing knowledge. Always eager to help and contribute positively to the coding community. Let's build something amazing together! 💻✨ #CodePassion</h3>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mystertaran&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mystertaran&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mystertaran&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mystertaran&icon=0&color=0)](https://visitcount.itsvg.in)
