@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Szymon!</h1>
-<h2 align="justify">Frontend enthusiast with a dash of backend flavor. I specialize in crafting seamless user experiences using technologies like ReactJS, TypeScript, JavaScript, and diving into CMS platforms like Wordpress and PrestaShop.</h2>  
+<h2 align="justify">Frontend enthusiast with a dash of backend flavor. I specialize in crafting seamless user experiences using technologies like ReactJS, TypeScript, JavaScript, and diving into CMS platforms like Wordpress, Shopify and PrestaShop.</h2>  
 <br/>
 <h2>Skills 🚀</h2>  
 <h4>- Team collaboration and effective time management. <br/>
